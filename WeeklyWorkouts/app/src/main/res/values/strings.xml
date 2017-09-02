@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Weekly Workouts</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="workout_button_message">Weekly Workouts</string>
+    <string name="workout_stats">Workout Stats</string>
+
+    <string name="statLabel1">Exercises Left</string>
+    <string name="statLabel2">Day Number</string>
+    <string name="statLabel3">Completion</string>
+    <string name="statLabel4">Exercises Done</string>
+
+    <string name="day_streak_data">000</string>
+    <string name="total_days_data">000</string>
+    <string name="completion_data">000</string>
+    <string name="goal_data">000</string>
+    <string name="title_activity_weekly_workouts">WeeklyWorkouts</string>
+
+    <string name="input_title">Section Name</string>
+    <string name="input_description">Description</string>
+
+    <string name="create">save</string>
+    <string name="cancel">cancel</string>
+
+    <string name="sets">Sets</string>
+    <string name="reps">Reps</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+
+    <string name="delete">Delete</string>
+    <string name="change_status">Change Status</string>
+    <string name="done">Done</string>
+    <string name="in_progress">Planned</string>
+    <string name="refused">Refuse</string>
+    <string name="edit">Edit</string>
+
+    <string name="icon_contribution">Madebyoliver</string>
+    <string name="title_activity_encyclopedia">Encyclopedia</string>
+
+    <string name="title_lower_body">Lower Body</string>
+    <string name="title_torso">Torso</string>
+    <string name="title_arms">Arms</string>
+
+    <string name="encyclopedia">Encyclopedia</string>
+    <string name="title_activity_webview">WebviewActivity</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_front"
+        android:icon="@drawable/ic_airline_seat_legroom_extra_black_24dp"
+        android:title="@string/title_lower_body" />
+
+    <item
+        android:id="@+id/navigation_back"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/title_torso" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_fitness_center_black_24dp"
+        android:title="@string/title_arms" />
+
+</menu>

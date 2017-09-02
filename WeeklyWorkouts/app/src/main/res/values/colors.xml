@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#607d8b</color>
+    <color name="colorDarkAccent">#455a64</color>
+    <color name="colorBackground">#263238</color>
+    <color name="colorTextLight">#eeeeee</color>
+    <color name="colorDividerLight">#eeeeee</color>
+    <color name="colorBackgroundListView">#546e7a</color>
+    <color name="colorButton2">#607d8b</color>
+
+    <!--Rainbow Colors-->
+    <color name="rainbow1">#b71c1c</color>
+    <color name="rainbow2">#9e9d24</color>
+    <color name="rainbow3">#38b71c</color>
+    <color name="rainbow4">#1cb7b4</color>
+    <color name="rainbow5">#a01cb7</color>
+    <color name="rainbow6">#b71c8b</color>
+    <color name="rainbow7">#d84315</color>
+</resources>

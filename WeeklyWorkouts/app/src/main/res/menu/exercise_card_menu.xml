@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/change_status"
+        android:title="@string/change_status">
+        <!-- Change Status submenu -->
+        <menu>
+            <item
+                android:id="@+id/set_to_done"
+                android:icon="@drawable/done_icon"
+                android:title="@string/done" />
+            <item
+                android:id="@+id/set_to_in_progress"
+                android:icon="@drawable/in_progress_icon"
+                android:title="@string/in_progress" />
+            <item
+                android:id="@+id/set_to_refused"
+                android:icon="@drawable/refused_icon"
+                android:title="@string/refused" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/edit_exercise"
+        android:title="@string/edit"/>
+    <item
+        android:id="@+id/delete_exercise"
+        android:title="@string/delete"/>
+
+
+
+</menu>
