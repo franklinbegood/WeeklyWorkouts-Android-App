@@ -4,9 +4,9 @@ A big personal project, my first big Android Application
 Made during Summer of 2017. I spent about 1 months on this project, off and on. This is my first large app so I didn't structure it and planned it through my head. I started a second version of this app to fix the mess of code but got bored since making the same thing over again wasn't very fun. This app was tested using a Nexus 6p and wasn't optomized for small screens and tablets.
 
 Technology Used:
-Web Crawling (Web Crawled over 1000 exercises)
-Simple Data Structures
-Poorly Executed Object Oriented Programming
+Web Crawling (Web Crawled over 1000 exercises),
+Simple Data Structures,
+Poorly Executed Object Oriented Programming,
 Other stuff
 
 Instructions:
